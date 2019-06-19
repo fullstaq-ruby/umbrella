@@ -8,3 +8,4 @@ For edition- or package-specific resources, please refer to these repositories:
  * Container Edition (coming soon)
  * Heroku Edition (coming soon)
  * [Fullstaq Rbenv](https://github.com/fullstaq-labs/fullstaq-rbenv)
+ * [Website](https://github.com/fullstaq-labs/fullstaq-ruby-website)
