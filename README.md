@@ -9,3 +9,9 @@ For edition-, package- or project-specific resources, please refer to these repo
  * [Website](https://github.com/fullstaq-labs/fullstaq-ruby-website)
  * Container Edition (coming soon)
  * Heroku Edition (coming soon)
+
+---
+
+## In this repository
+
+ * [Project roadmap](ROADMAP.md)
