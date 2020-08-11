@@ -6,6 +6,7 @@ For edition-, package- or project-specific resources, please refer to these repo
 
  * [Server Edition](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition)
  * [Fullstaq Rbenv](https://github.com/fullstaq-labs/fullstaq-rbenv)
+ * [Infrastructure](https://github.com/fullstaq-labs/fullstaq-ruby-infra)
  * [Website](https://github.com/fullstaq-labs/fullstaq-ruby-website)
  * Container Edition (coming soon)
  * Heroku Edition (coming soon)
