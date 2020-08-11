@@ -14,6 +14,7 @@ We need to set up the appropriate documentation, systems and processes to allow 
 ### Epic 5: Server Edition general availability (leaving beta)
 
  * [Issues: Server Edition](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition/milestone/1)
+ * [Issues: Umbrella](https://github.com/fullstaq-labs/fullstaq-ruby-umbrella/milestone/1)
 
 Miscellaneous polish is required to let the Server Edition enter General Availability status.
 
