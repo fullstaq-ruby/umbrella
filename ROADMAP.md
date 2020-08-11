@@ -5,7 +5,8 @@
 ### Epic 4: Improve contributor friendliness for Server Edition
 
 [![Server Edition issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-ruby-server-edition/3?label=Server%20Edition%20issues)](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition/milestone/3)
-[![fullstaq-rbenv issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-rbenv/1?label=fullstaq-rbenv%20issues)](https://github.com/fullstaq-labs/fullstaq-rbenv/milestone/1)
+[![Fullstaq Rbenv issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-rbenv/1?label=Fullstaq%20Rbenv%20issues)](https://github.com/fullstaq-labs/fullstaq-rbenv/milestone/1)
+[![Infrastructure issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-ruby-infra/1?label=Infrastructure%20issues)](https://github.com/fullstaq-labs/fullstaq-ruby-infra/milestone/1)
 
 Fullstaq Ruby's [long-term vision](https://www.joyfulbikeshedding.com/blog/2020-05-15-why-fullstaq-ruby.html) is to become healthy open source project that can run on its own, and that survives and thrives even without the active input of its founders.
 
