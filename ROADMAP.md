@@ -4,8 +4,8 @@
 
 ### Epic 4: Improve contributor friendliness for Server Edition
 
- * [Issues: Server Edition](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition/milestone/3)
- * [Issues: fullstaq-rbenv](https://github.com/fullstaq-labs/fullstaq-rbenv/milestone/1)
+[![Server Edition issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-ruby-server-edition/3?label=Server%20Edition%20issues)](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition/milestone/3)
+[![fullstaq-rbenv issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-rbenv/1?label=fullstaq-rbenv%20issues)](https://github.com/fullstaq-labs/fullstaq-rbenv/milestone/1)
 
 Fullstaq Ruby's [long-term vision](https://www.joyfulbikeshedding.com/blog/2020-05-15-why-fullstaq-ruby.html) is to become healthy open source project that can run on its own, and that survives and thrives even without the active input of its founders.
 
@@ -13,8 +13,8 @@ We need to set up the appropriate documentation, systems and processes to allow 
 
 ### Epic 5: Server Edition general availability (leaving beta)
 
- * [Issues: Server Edition](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition/milestone/1)
- * [Issues: Umbrella](https://github.com/fullstaq-labs/fullstaq-ruby-umbrella/milestone/1)
+[![Server Edition issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-ruby-server-edition/1?label=Server%20Edition%20issues)](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition/milestone/1)
+[![Umbrella issues](https://img.shields.io/github/milestones/progress/fullstaq-labs/fullstaq-ruby-umbrella/1?label=Umbrella%20issues)](https://github.com/fullstaq-labs/fullstaq-ruby-umbrella/milestone/1)
 
 Miscellaneous polish is required to let the Server Edition enter General Availability status.
 
